@@ -5,7 +5,7 @@
 OldCar Database, it has been structured by following [normalization](https://en.wikipedia.org/wiki/Database_normalization) process to organise data, creating columns, keys and tables to establish relationships between them, gaining full protection in the data used and making the database more flexible by eliminating redundancy and inconsistent dependency.
 
 <h2 align="left">
-  <img src="https://user-images.githubusercontent.com/43299285/113404704-de66cd00-93a8-11eb-8275-e03cb297044c.png" width="50">
+  <img src="https://user-images.githubusercontent.com/43299285/113404704-de66cd00-93a8-11eb-8275-e03cb297044c.png" width="60">
   MySQL Database Schema...
 </h2>
 
@@ -27,7 +27,7 @@ OldCar Database, it has been structured by following [normalization](https://en.
 In this stage, the Oldcar Database was implemented following object-relational mapper ([ORM](https://en.wikipedia.org/wiki/Object%E2%80%93relational_mapping)) functionality, in order to achieve this I have used the resources and tools available in [Symfony](https://symfony.com/) and [Doctrine](https://www.doctrine-project.org/projects/doctrine-orm/en/current/tutorials/getting-started.html).
 
 <h2 align="left">
-  <img src="https://user-images.githubusercontent.com/43299285/113404941-4c12f900-93a9-11eb-93d1-9e5a4fb8b8b5.png" width="50">
+  <img src="https://user-images.githubusercontent.com/43299285/113404941-4c12f900-93a9-11eb-93d1-9e5a4fb8b8b5.png" width="60">
   PHPMyAdmin Support Locally...
 </h2>
 
