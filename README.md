@@ -1,10 +1,14 @@
-# OldCar DDBB MySQL
+# OldCar Database MySQL
 ### Database for final project of Full Stack Development Bootcamp at CodeSpace(Malaga).
 
 ## About this project...
-OldCar Database, it has been structured by following [normalisation](https://en.wikipedia.org/wiki/Database_normalization) process to organise data, creating columns, keys and tables to establish relationships between them, gaining full protection in the data used and making the database more flexible by eliminating redundancy and inconsistent dependency.
+OldCar Database, it has been structured by following [normalization](https://en.wikipedia.org/wiki/Database_normalization) process to organise data, creating columns, keys and tables to establish relationships between them, gaining full protection in the data used and making the database more flexible by eliminating redundancy and inconsistent dependency.
 
-## MySQL Database Schema..
+<h2 align="left">
+  <img src="https://user-images.githubusercontent.com/43299285/113404704-de66cd00-93a8-11eb-8275-e03cb297044c.png" width="50">
+  MySQL Database Schema...
+</h2>
+
 [MySQL](https://www.mysql.com/) is the service used to form relationships between tables, in this project I utilise relationship types like Many-to-One, One-to-Many and Many-to-Many to reach outcome required in each scenario. 
 
 ## Design...
@@ -15,10 +19,18 @@ OldCar Database, it has been structured by following [normalisation](https://en.
 
 </div>
 
-## Implementation With Doctrine..
+<h2 align="left">
+  <img src="https://user-images.githubusercontent.com/43299285/113404814-153ce300-93a9-11eb-9832-1db1e3999849.png" width="40">
+  Implementation With Doctrine..
+</h2>
+
 In this stage, the Oldcar Database was implemented following object-relational mapper ([ORM](https://en.wikipedia.org/wiki/Object%E2%80%93relational_mapping)) functionality, in order to achieve this I have used the resources and tools available in [Symfony](https://symfony.com/) and [Doctrine](https://www.doctrine-project.org/projects/doctrine-orm/en/current/tutorials/getting-started.html).
 
-## PHPMyAdmin Support Locally...
+<h2 align="left">
+  <img src="https://user-images.githubusercontent.com/43299285/113404941-4c12f900-93a9-11eb-93d1-9e5a4fb8b8b5.png" width="50">
+  PHPMyAdmin Support Locally...
+</h2>
+
 For a better overview of how things are in the Database and support any admin action, I opted for [PHPMyAdmin](https://www.phpmyadmin.net/) which is very handy in these cases as MySQL Database.
 
 ## Installing..
@@ -27,9 +39,7 @@ For a better overview of how things are in the Database and support any admin ac
 * `$cd OldCarDDBB` to display files in your editor.
 
 ## :exclamation::exclamation: Please note :exclamation::exclamation: 
-[XAMPP](https://www.youtube.com/watch?time_continue=1&v=h6DEDm7C37A&feature=emb_logo) is the cross-platform web server solution used in my case, but you can use another one to run the DDBB locally. 
-
-[Download here!!](https://www.apachefriends.org/index.html)
+[XAMPP](https://www.youtube.com/watch?time_continue=1&v=h6DEDm7C37A&feature=emb_logo) is the cross-platform web server solution used in my case, but you can use another one to run the DDBB locally. [Download here!!](https://www.apachefriends.org/index.html)
 
 ## Author
 Jose MMorales
