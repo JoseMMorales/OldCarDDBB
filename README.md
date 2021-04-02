@@ -24,7 +24,7 @@ OldCar Database, it has been structured by following [normalization](https://en.
   Implementation With Doctrine..
 </h2>
 
-In this stage, the Oldcar Database was implemented following object-relational mapper ([ORM](https://en.wikipedia.org/wiki/Object%E2%80%93relational_mapping)) functionality, in order to achieve this I have used the resources and tools available in [Symfony](https://symfony.com/) and [Doctrine](https://www.doctrine-project.org/projects/doctrine-orm/en/current/tutorials/getting-started.html). This process was generating entities based on the existing OldCar database model and finally creating all getters and setters in PHP Classes.
+In this stage, the Oldcar Database was implemented following object-relational mapper ([ORM](https://en.wikipedia.org/wiki/Object%E2%80%93relational_mapping)) functionality, in order to achieve this I have used the resources and tools available in [Symfony](https://symfony.com/) and [Doctrine](https://www.doctrine-project.org/projects/doctrine-orm/en/current/tutorials/getting-started.html). Basically, this process was generating entities based on the existing OldCar database model and finally creating all getters and setters in PHP Classes.
 
 Further information [here](https://symfony.com/doc/current/doctrine/reverse_engineering.html).
 
